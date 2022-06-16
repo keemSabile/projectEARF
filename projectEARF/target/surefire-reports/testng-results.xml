@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-15T16:23:17 SGT" name="Surefire suite" finished-at="2022-06-15T16:25:18 SGT" duration-ms="120889">
+    <groups>
+    </groups>
+    <test started-at="2022-06-15T16:23:17 SGT" name="Surefire test" finished-at="2022-06-15T16:25:18 SGT" duration-ms="120889">
+      <class name="com.converge.projectEARF.AppTest">
+        <test-method is-config="true" signature="extent()[pri:0, instance:com.converge.projectEARF.AppTest@55f616cf]" started-at="2022-06-15T16:23:16 SGT" name="extent" finished-at="2022-06-15T16:23:17 SGT" duration-ms="558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extent -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.converge.projectEARF.AppTest@55f616cf]" started-at="2022-06-15T16:23:17 SGT" name="setUp" finished-at="2022-06-15T16:23:20 SGT" duration-ms="3389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="EARF1stTest()[pri:0, instance:com.converge.projectEARF.AppTest@55f616cf]" started-at="2022-06-15T16:23:20 SGT" name="EARF1stTest" finished-at="2022-06-15T16:23:29 SGT" duration-ms="9256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EARF1stTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.converge.projectEARF.AppTest@55f616cf]" started-at="2022-06-15T16:23:29 SGT" name="teardown" finished-at="2022-06-15T16:23:30 SGT" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.converge.projectEARF.AppTest@55f616cf]" started-at="2022-06-15T16:23:30 SGT" name="setUp" finished-at="2022-06-15T16:23:31 SGT" duration-ms="1914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="EARF2ndTest()[pri:1, instance:com.converge.projectEARF.AppTest@55f616cf]" started-at="2022-06-15T16:23:31 SGT" name="EARF2ndTest" finished-at="2022-06-15T16:23:41 SGT" duration-ms="9031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EARF2ndTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.converge.projectEARF.AppTest@55f616cf]" started-at="2022-06-15T16:23:41 SGT" name="teardown" finished-at="2022-06-15T16:23:41 SGT" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.converge.projectEARF.AppTest@55f616cf]" started-at="2022-06-15T16:23:41 SGT" name="setUp" finished-at="2022-06-15T16:23:43 SGT" duration-ms="2550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="EARF3ndTest()[pri:2, instance:com.converge.projectEARF.AppTest@55f616cf]" started-at="2022-06-15T16:23:43 SGT" name="EARF3ndTest" finished-at="2022-06-15T16:23:53 SGT" duration-ms="9686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EARF3ndTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.converge.projectEARF.AppTest@55f616cf]" started-at="2022-06-15T16:23:53 SGT" name="teardown" finished-at="2022-06-15T16:23:53 SGT" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.converge.projectEARF.AppTest@55f616cf]" started-at="2022-06-15T16:23:53 SGT" name="setUp" finished-at="2022-06-15T16:23:56 SGT" duration-ms="2868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="EARF4thTest()[pri:3, instance:com.converge.projectEARF.AppTest@55f616cf]" started-at="2022-06-15T16:23:56 SGT" name="EARF4thTest" finished-at="2022-06-15T16:24:04 SGT" duration-ms="8285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EARF4thTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.converge.projectEARF.AppTest@55f616cf]" started-at="2022-06-15T16:24:04 SGT" name="teardown" finished-at="2022-06-15T16:24:04 SGT" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.converge.projectEARF.AppTest@55f616cf]" started-at="2022-06-15T16:24:04 SGT" name="setUp" finished-at="2022-06-15T16:24:06 SGT" duration-ms="2057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="EARF5thTest()[pri:4, instance:com.converge.projectEARF.AppTest@55f616cf]" started-at="2022-06-15T16:24:06 SGT" name="EARF5thTest" finished-at="2022-06-15T16:24:16 SGT" duration-ms="9085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EARF5thTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.converge.projectEARF.AppTest@55f616cf]" started-at="2022-06-15T16:24:16 SGT" name="teardown" finished-at="2022-06-15T16:24:16 SGT" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.converge.projectEARF.AppTest@55f616cf]" started-at="2022-06-15T16:24:16 SGT" name="setUp" finished-at="2022-06-15T16:24:18 SGT" duration-ms="2604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="EARF7thTest()[pri:5, instance:com.converge.projectEARF.AppTest@55f616cf]" started-at="2022-06-15T16:24:18 SGT" name="EARF7thTest" finished-at="2022-06-15T16:24:24 SGT" duration-ms="5683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EARF7thTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.converge.projectEARF.AppTest@55f616cf]" started-at="2022-06-15T16:24:24 SGT" name="teardown" finished-at="2022-06-15T16:24:28 SGT" duration-ms="4188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.converge.projectEARF.AppTest@55f616cf]" started-at="2022-06-15T16:24:28 SGT" name="setUp" finished-at="2022-06-15T16:24:31 SGT" duration-ms="2484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="EARF8thTest()[pri:6, instance:com.converge.projectEARF.AppTest@55f616cf]" started-at="2022-06-15T16:24:31 SGT" name="EARF8thTest" finished-at="2022-06-15T16:24:48 SGT" duration-ms="17618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EARF8thTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.converge.projectEARF.AppTest@55f616cf]" started-at="2022-06-15T16:24:48 SGT" name="teardown" finished-at="2022-06-15T16:24:49 SGT" duration-ms="303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.converge.projectEARF.AppTest@55f616cf]" started-at="2022-06-15T16:24:49 SGT" name="setUp" finished-at="2022-06-15T16:24:51 SGT" duration-ms="2709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="EARFWebPage()[pri:7, instance:com.converge.projectEARF.AppTest@55f616cf]" started-at="2022-06-15T16:24:51 SGT" name="EARFWebPage" finished-at="2022-06-15T16:25:17 SGT" duration-ms="26220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EARFWebPage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.converge.projectEARF.AppTest@55f616cf]" started-at="2022-06-15T16:25:17 SGT" name="teardown" finished-at="2022-06-15T16:25:18 SGT" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="finish()[pri:0, instance:com.converge.projectEARF.AppTest@55f616cf]" started-at="2022-06-15T16:25:18 SGT" name="finish" finished-at="2022-06-15T16:25:18 SGT" duration-ms="474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- com.converge.projectEARF.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

@@ -1,0 +1,1416 @@
+# Created at 2022-06-15T16:22:44.211
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:397)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+
+# Created at 2022-06-15T16:22:45.660
+Unexpected IOException with stream: Open Chrome Browser
+
+
+# Created at 2022-06-15T16:22:46.207
+Unexpected IOException with stream: S
+
+# Created at 2022-06-15T16:22:46.208
+Unexpected IOException with stream: t
+
+# Created at 2022-06-15T16:22:46.209
+Unexpected IOException with stream: a
+
+# Created at 2022-06-15T16:22:46.209
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:46.210
+Unexpected IOException with stream: t
+
+# Created at 2022-06-15T16:22:46.211
+Unexpected IOException with stream: i
+
+# Created at 2022-06-15T16:22:46.212
+Unexpected IOException with stream: n
+
+# Created at 2022-06-15T16:22:46.212
+Unexpected IOException with stream: g
+
+# Created at 2022-06-15T16:22:46.213
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:46.214
+Unexpected IOException with stream: C
+
+# Created at 2022-06-15T16:22:46.215
+Unexpected IOException with stream: h
+
+# Created at 2022-06-15T16:22:46.215
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:46.216
+Unexpected IOException with stream: o
+
+# Created at 2022-06-15T16:22:46.217
+Unexpected IOException with stream: m
+
+# Created at 2022-06-15T16:22:46.218
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:46.218
+Unexpected IOException with stream: D
+
+# Created at 2022-06-15T16:22:46.219
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:46.220
+Unexpected IOException with stream: i
+
+# Created at 2022-06-15T16:22:46.221
+Unexpected IOException with stream: v
+
+# Created at 2022-06-15T16:22:46.222
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:46.223
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:46.223
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:46.224
+Unexpected IOException with stream: 1
+
+# Created at 2022-06-15T16:22:46.225
+Unexpected IOException with stream: 0
+
+# Created at 2022-06-15T16:22:46.226
+Unexpected IOException with stream: 1
+
+# Created at 2022-06-15T16:22:46.226
+Unexpected IOException with stream: .
+
+# Created at 2022-06-15T16:22:46.227
+Unexpected IOException with stream: 0
+
+# Created at 2022-06-15T16:22:46.227
+Unexpected IOException with stream: .
+
+# Created at 2022-06-15T16:22:46.228
+Unexpected IOException with stream: 4
+
+# Created at 2022-06-15T16:22:46.229
+Unexpected IOException with stream: 9
+
+# Created at 2022-06-15T16:22:46.229
+Unexpected IOException with stream: 5
+
+# Created at 2022-06-15T16:22:46.230
+Unexpected IOException with stream: 1
+
+# Created at 2022-06-15T16:22:46.230
+Unexpected IOException with stream: .
+
+# Created at 2022-06-15T16:22:46.231
+Unexpected IOException with stream: 4
+
+# Created at 2022-06-15T16:22:46.231
+Unexpected IOException with stream: 1
+
+# Created at 2022-06-15T16:22:46.232
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:46.233
+Unexpected IOException with stream: (
+
+# Created at 2022-06-15T16:22:46.234
+Unexpected IOException with stream: 9
+
+# Created at 2022-06-15T16:22:46.234
+Unexpected IOException with stream: 3
+
+# Created at 2022-06-15T16:22:46.235
+Unexpected IOException with stream: c
+
+# Created at 2022-06-15T16:22:46.236
+Unexpected IOException with stream: 7
+
+# Created at 2022-06-15T16:22:46.236
+Unexpected IOException with stream: 2
+
+# Created at 2022-06-15T16:22:46.237
+Unexpected IOException with stream: 0
+
+# Created at 2022-06-15T16:22:46.238
+Unexpected IOException with stream: d
+
+# Created at 2022-06-15T16:22:46.239
+Unexpected IOException with stream: b
+
+# Created at 2022-06-15T16:22:46.240
+Unexpected IOException with stream: 8
+
+# Created at 2022-06-15T16:22:46.240
+Unexpected IOException with stream: 3
+
+# Created at 2022-06-15T16:22:46.241
+Unexpected IOException with stream: 2
+
+# Created at 2022-06-15T16:22:46.242
+Unexpected IOException with stream: 3
+
+# Created at 2022-06-15T16:22:46.242
+Unexpected IOException with stream: b
+
+# Created at 2022-06-15T16:22:46.243
+Unexpected IOException with stream: 3
+
+# Created at 2022-06-15T16:22:46.245
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:46.246
+Unexpected IOException with stream: c
+
+# Created at 2022-06-15T16:22:46.246
+Unexpected IOException with stream: 1
+
+# Created at 2022-06-15T16:22:46.247
+Unexpected IOException with stream: 0
+
+# Created at 2022-06-15T16:22:46.248
+Unexpected IOException with stream: d
+
+# Created at 2022-06-15T16:22:46.248
+Unexpected IOException with stream: 0
+
+# Created at 2022-06-15T16:22:46.249
+Unexpected IOException with stream: 5
+
+# Created at 2022-06-15T16:22:46.250
+Unexpected IOException with stream: 6
+
+# Created at 2022-06-15T16:22:46.250
+Unexpected IOException with stream: 0
+
+# Created at 2022-06-15T16:22:46.251
+Unexpected IOException with stream: 2
+
+# Created at 2022-06-15T16:22:46.252
+Unexpected IOException with stream: 5
+
+# Created at 2022-06-15T16:22:46.253
+Unexpected IOException with stream: a
+
+# Created at 2022-06-15T16:22:46.255
+Unexpected IOException with stream: b
+
+# Created at 2022-06-15T16:22:46.256
+Unexpected IOException with stream: 9
+
+# Created at 2022-06-15T16:22:46.257
+Unexpected IOException with stream: 5
+
+# Created at 2022-06-15T16:22:46.258
+Unexpected IOException with stream: c
+
+# Created at 2022-06-15T16:22:46.259
+Unexpected IOException with stream: 2
+
+# Created at 2022-06-15T16:22:46.260
+Unexpected IOException with stream: 3
+
+# Created at 2022-06-15T16:22:46.261
+Unexpected IOException with stream: a
+
+# Created at 2022-06-15T16:22:46.262
+Unexpected IOException with stream: 3
+
+# Created at 2022-06-15T16:22:46.263
+Unexpected IOException with stream: 1
+
+# Created at 2022-06-15T16:22:46.264
+Unexpected IOException with stream: 9
+
+# Created at 2022-06-15T16:22:46.265
+Unexpected IOException with stream: 9
+
+# Created at 2022-06-15T16:22:46.265
+Unexpected IOException with stream: 7
+
+# Created at 2022-06-15T16:22:46.267
+Unexpected IOException with stream: c
+
+# Created at 2022-06-15T16:22:46.268
+Unexpected IOException with stream: 9
+
+# Created at 2022-06-15T16:22:46.268
+Unexpected IOException with stream: -
+
+# Created at 2022-06-15T16:22:46.269
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:46.270
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:46.271
+Unexpected IOException with stream: f
+
+# Created at 2022-06-15T16:22:46.272
+Unexpected IOException with stream: s
+
+# Created at 2022-06-15T16:22:46.273
+Unexpected IOException with stream: /
+
+# Created at 2022-06-15T16:22:46.274
+Unexpected IOException with stream: b
+
+# Created at 2022-06-15T16:22:46.274
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:46.275
+Unexpected IOException with stream: a
+
+# Created at 2022-06-15T16:22:46.276
+Unexpected IOException with stream: n
+
+# Created at 2022-06-15T16:22:46.277
+Unexpected IOException with stream: c
+
+# Created at 2022-06-15T16:22:46.277
+Unexpected IOException with stream: h
+
+# Created at 2022-06-15T16:22:46.278
+Unexpected IOException with stream: -
+
+# Created at 2022-06-15T16:22:46.279
+Unexpected IOException with stream: h
+
+# Created at 2022-06-15T16:22:46.279
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:46.280
+Unexpected IOException with stream: a
+
+# Created at 2022-06-15T16:22:46.280
+Unexpected IOException with stream: d
+
+# Created at 2022-06-15T16:22:46.281
+Unexpected IOException with stream: s
+
+# Created at 2022-06-15T16:22:46.281
+Unexpected IOException with stream: /
+
+# Created at 2022-06-15T16:22:46.282
+Unexpected IOException with stream: 4
+
+# Created at 2022-06-15T16:22:46.283
+Unexpected IOException with stream: 9
+
+# Created at 2022-06-15T16:22:46.283
+Unexpected IOException with stream: 5
+
+# Created at 2022-06-15T16:22:46.284
+Unexpected IOException with stream: 1
+
+# Created at 2022-06-15T16:22:46.284
+Unexpected IOException with stream: @
+
+# Created at 2022-06-15T16:22:46.285
+Unexpected IOException with stream: {
+
+# Created at 2022-06-15T16:22:46.285
+Unexpected IOException with stream: #
+
+# Created at 2022-06-15T16:22:46.286
+Unexpected IOException with stream: 9
+
+# Created at 2022-06-15T16:22:46.286
+Unexpected IOException with stream: 0
+
+# Created at 2022-06-15T16:22:46.287
+Unexpected IOException with stream: 4
+
+# Created at 2022-06-15T16:22:46.287
+Unexpected IOException with stream: }
+
+# Created at 2022-06-15T16:22:46.288
+Unexpected IOException with stream: )
+
+# Created at 2022-06-15T16:22:46.288
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:46.289
+Unexpected IOException with stream: o
+
+# Created at 2022-06-15T16:22:46.289
+Unexpected IOException with stream: n
+
+# Created at 2022-06-15T16:22:46.290
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:46.290
+Unexpected IOException with stream: p
+
+# Created at 2022-06-15T16:22:46.291
+Unexpected IOException with stream: o
+
+# Created at 2022-06-15T16:22:46.291
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:46.292
+Unexpected IOException with stream: t
+
+# Created at 2022-06-15T16:22:46.292
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:46.293
+Unexpected IOException with stream: 1
+
+# Created at 2022-06-15T16:22:46.293
+Unexpected IOException with stream: 9
+
+# Created at 2022-06-15T16:22:46.294
+Unexpected IOException with stream: 1
+
+# Created at 2022-06-15T16:22:46.295
+Unexpected IOException with stream: 4
+
+# Created at 2022-06-15T16:22:46.295
+Unexpected IOException with stream: 4
+
+# Created at 2022-06-15T16:22:46.296
+Unexpected IOException with stream: 
+
+# Created at 2022-06-15T16:22:46.296
+Unexpected IOException with stream: 
+
+
+# Created at 2022-06-15T16:22:46.297
+Unexpected IOException with stream: O
+
+# Created at 2022-06-15T16:22:46.297
+Unexpected IOException with stream: n
+
+# Created at 2022-06-15T16:22:46.298
+Unexpected IOException with stream: l
+
+# Created at 2022-06-15T16:22:46.299
+Unexpected IOException with stream: y
+
+# Created at 2022-06-15T16:22:46.300
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:46.301
+Unexpected IOException with stream: l
+
+# Created at 2022-06-15T16:22:46.302
+Unexpected IOException with stream: o
+
+# Created at 2022-06-15T16:22:46.303
+Unexpected IOException with stream: c
+
+# Created at 2022-06-15T16:22:46.304
+Unexpected IOException with stream: a
+
+# Created at 2022-06-15T16:22:46.304
+Unexpected IOException with stream: l
+
+# Created at 2022-06-15T16:22:46.305
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:46.307
+Unexpected IOException with stream: c
+
+# Created at 2022-06-15T16:22:46.308
+Unexpected IOException with stream: o
+
+# Created at 2022-06-15T16:22:46.308
+Unexpected IOException with stream: n
+
+# Created at 2022-06-15T16:22:46.309
+Unexpected IOException with stream: n
+
+# Created at 2022-06-15T16:22:46.309
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:46.310
+Unexpected IOException with stream: c
+
+# Created at 2022-06-15T16:22:46.311
+Unexpected IOException with stream: t
+
+# Created at 2022-06-15T16:22:46.312
+Unexpected IOException with stream: i
+
+# Created at 2022-06-15T16:22:46.312
+Unexpected IOException with stream: o
+
+# Created at 2022-06-15T16:22:46.313
+Unexpected IOException with stream: n
+
+# Created at 2022-06-15T16:22:46.314
+Unexpected IOException with stream: s
+
+# Created at 2022-06-15T16:22:46.314
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:46.315
+Unexpected IOException with stream: a
+
+# Created at 2022-06-15T16:22:46.316
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:46.316
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:46.317
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:46.317
+Unexpected IOException with stream: a
+
+# Created at 2022-06-15T16:22:46.318
+Unexpected IOException with stream: l
+
+# Created at 2022-06-15T16:22:46.318
+Unexpected IOException with stream: l
+
+# Created at 2022-06-15T16:22:46.319
+Unexpected IOException with stream: o
+
+# Created at 2022-06-15T16:22:46.320
+Unexpected IOException with stream: w
+
+# Created at 2022-06-15T16:22:46.321
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:46.323
+Unexpected IOException with stream: d
+
+# Created at 2022-06-15T16:22:46.324
+Unexpected IOException with stream: .
+
+# Created at 2022-06-15T16:22:46.324
+Unexpected IOException with stream: 
+
+# Created at 2022-06-15T16:22:46.325
+Unexpected IOException with stream: 
+
+
+# Created at 2022-06-15T16:22:46.326
+Unexpected IOException with stream: P
+
+# Created at 2022-06-15T16:22:46.327
+Unexpected IOException with stream: l
+
+# Created at 2022-06-15T16:22:46.328
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:46.329
+Unexpected IOException with stream: a
+
+# Created at 2022-06-15T16:22:46.329
+Unexpected IOException with stream: s
+
+# Created at 2022-06-15T16:22:46.330
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:46.331
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:46.331
+Unexpected IOException with stream: s
+
+# Created at 2022-06-15T16:22:46.332
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:46.332
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:46.333
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:46.333
+Unexpected IOException with stream: h
+
+# Created at 2022-06-15T16:22:46.333
+Unexpected IOException with stream: t
+
+# Created at 2022-06-15T16:22:46.334
+Unexpected IOException with stream: t
+
+# Created at 2022-06-15T16:22:46.334
+Unexpected IOException with stream: p
+
+# Created at 2022-06-15T16:22:46.335
+Unexpected IOException with stream: s
+
+# Created at 2022-06-15T16:22:46.335
+Unexpected IOException with stream: :
+
+# Created at 2022-06-15T16:22:46.336
+Unexpected IOException with stream: /
+
+# Created at 2022-06-15T16:22:46.336
+Unexpected IOException with stream: /
+
+# Created at 2022-06-15T16:22:46.337
+Unexpected IOException with stream: c
+
+# Created at 2022-06-15T16:22:46.337
+Unexpected IOException with stream: h
+
+# Created at 2022-06-15T16:22:46.338
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:46.338
+Unexpected IOException with stream: o
+
+# Created at 2022-06-15T16:22:46.339
+Unexpected IOException with stream: m
+
+# Created at 2022-06-15T16:22:46.340
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:46.340
+Unexpected IOException with stream: d
+
+# Created at 2022-06-15T16:22:46.341
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:46.341
+Unexpected IOException with stream: i
+
+# Created at 2022-06-15T16:22:46.342
+Unexpected IOException with stream: v
+
+# Created at 2022-06-15T16:22:46.342
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:46.344
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:46.345
+Unexpected IOException with stream: .
+
+# Created at 2022-06-15T16:22:46.345
+Unexpected IOException with stream: c
+
+# Created at 2022-06-15T16:22:46.346
+Unexpected IOException with stream: h
+
+# Created at 2022-06-15T16:22:46.346
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:46.347
+Unexpected IOException with stream: o
+
+# Created at 2022-06-15T16:22:46.347
+Unexpected IOException with stream: m
+
+# Created at 2022-06-15T16:22:46.348
+Unexpected IOException with stream: i
+
+# Created at 2022-06-15T16:22:46.348
+Unexpected IOException with stream: u
+
+# Created at 2022-06-15T16:22:46.349
+Unexpected IOException with stream: m
+
+# Created at 2022-06-15T16:22:46.349
+Unexpected IOException with stream: .
+
+# Created at 2022-06-15T16:22:46.350
+Unexpected IOException with stream: o
+
+# Created at 2022-06-15T16:22:46.350
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:46.350
+Unexpected IOException with stream: g
+
+# Created at 2022-06-15T16:22:46.351
+Unexpected IOException with stream: /
+
+# Created at 2022-06-15T16:22:46.351
+Unexpected IOException with stream: s
+
+# Created at 2022-06-15T16:22:46.352
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:46.352
+Unexpected IOException with stream: c
+
+# Created at 2022-06-15T16:22:46.353
+Unexpected IOException with stream: u
+
+# Created at 2022-06-15T16:22:46.353
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:46.354
+Unexpected IOException with stream: i
+
+# Created at 2022-06-15T16:22:46.354
+Unexpected IOException with stream: t
+
+# Created at 2022-06-15T16:22:46.355
+Unexpected IOException with stream: y
+
+# Created at 2022-06-15T16:22:46.355
+Unexpected IOException with stream: -
+
+# Created at 2022-06-15T16:22:46.356
+Unexpected IOException with stream: c
+
+# Created at 2022-06-15T16:22:46.356
+Unexpected IOException with stream: o
+
+# Created at 2022-06-15T16:22:46.356
+Unexpected IOException with stream: n
+
+# Created at 2022-06-15T16:22:46.357
+Unexpected IOException with stream: s
+
+# Created at 2022-06-15T16:22:46.357
+Unexpected IOException with stream: i
+
+# Created at 2022-06-15T16:22:46.358
+Unexpected IOException with stream: d
+
+# Created at 2022-06-15T16:22:46.359
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:46.359
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:46.359
+Unexpected IOException with stream: a
+
+# Created at 2022-06-15T16:22:46.360
+Unexpected IOException with stream: t
+
+# Created at 2022-06-15T16:22:46.360
+Unexpected IOException with stream: i
+
+# Created at 2022-06-15T16:22:46.361
+Unexpected IOException with stream: o
+
+# Created at 2022-06-15T16:22:46.361
+Unexpected IOException with stream: n
+
+# Created at 2022-06-15T16:22:46.362
+Unexpected IOException with stream: s
+
+# Created at 2022-06-15T16:22:46.362
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:46.363
+Unexpected IOException with stream: f
+
+# Created at 2022-06-15T16:22:46.363
+Unexpected IOException with stream: o
+
+# Created at 2022-06-15T16:22:46.363
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:46.364
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:46.364
+Unexpected IOException with stream: s
+
+# Created at 2022-06-15T16:22:46.365
+Unexpected IOException with stream: u
+
+# Created at 2022-06-15T16:22:46.365
+Unexpected IOException with stream: g
+
+# Created at 2022-06-15T16:22:46.365
+Unexpected IOException with stream: g
+
+# Created at 2022-06-15T16:22:46.366
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:46.366
+Unexpected IOException with stream: s
+
+# Created at 2022-06-15T16:22:46.367
+Unexpected IOException with stream: t
+
+# Created at 2022-06-15T16:22:46.367
+Unexpected IOException with stream: i
+
+# Created at 2022-06-15T16:22:46.368
+Unexpected IOException with stream: o
+
+# Created at 2022-06-15T16:22:46.368
+Unexpected IOException with stream: n
+
+# Created at 2022-06-15T16:22:46.368
+Unexpected IOException with stream: s
+
+# Created at 2022-06-15T16:22:46.369
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:46.369
+Unexpected IOException with stream: o
+
+# Created at 2022-06-15T16:22:46.370
+Unexpected IOException with stream: n
+
+# Created at 2022-06-15T16:22:46.370
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:46.371
+Unexpected IOException with stream: k
+
+# Created at 2022-06-15T16:22:46.371
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:46.371
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:46.372
+Unexpected IOException with stream: p
+
+# Created at 2022-06-15T16:22:46.373
+Unexpected IOException with stream: i
+
+# Created at 2022-06-15T16:22:46.373
+Unexpected IOException with stream: n
+
+# Created at 2022-06-15T16:22:46.374
+Unexpected IOException with stream: g
+
+# Created at 2022-06-15T16:22:46.374
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:46.375
+Unexpected IOException with stream: C
+
+# Created at 2022-06-15T16:22:46.375
+Unexpected IOException with stream: h
+
+# Created at 2022-06-15T16:22:46.375
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:46.376
+Unexpected IOException with stream: o
+
+# Created at 2022-06-15T16:22:46.377
+Unexpected IOException with stream: m
+
+# Created at 2022-06-15T16:22:46.377
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:46.378
+Unexpected IOException with stream: D
+
+# Created at 2022-06-15T16:22:46.378
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:46.378
+Unexpected IOException with stream: i
+
+# Created at 2022-06-15T16:22:46.379
+Unexpected IOException with stream: v
+
+# Created at 2022-06-15T16:22:46.379
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:46.380
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:46.380
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:46.381
+Unexpected IOException with stream: s
+
+# Created at 2022-06-15T16:22:46.381
+Unexpected IOException with stream: a
+
+# Created at 2022-06-15T16:22:46.382
+Unexpected IOException with stream: f
+
+# Created at 2022-06-15T16:22:46.382
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:46.382
+Unexpected IOException with stream: .
+
+# Created at 2022-06-15T16:22:46.383
+Unexpected IOException with stream: 
+
+# Created at 2022-06-15T16:22:46.383
+Unexpected IOException with stream: 
+
+
+# Created at 2022-06-15T16:22:46.384
+Unexpected IOException with stream: C
+
+# Created at 2022-06-15T16:22:46.384
+Unexpected IOException with stream: h
+
+# Created at 2022-06-15T16:22:46.384
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:46.385
+Unexpected IOException with stream: o
+
+# Created at 2022-06-15T16:22:46.385
+Unexpected IOException with stream: m
+
+# Created at 2022-06-15T16:22:46.386
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:46.386
+Unexpected IOException with stream: D
+
+# Created at 2022-06-15T16:22:46.386
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:46.387
+Unexpected IOException with stream: i
+
+# Created at 2022-06-15T16:22:46.387
+Unexpected IOException with stream: v
+
+# Created at 2022-06-15T16:22:46.388
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:46.388
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:46.388
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:46.389
+Unexpected IOException with stream: w
+
+# Created at 2022-06-15T16:22:46.389
+Unexpected IOException with stream: a
+
+# Created at 2022-06-15T16:22:46.390
+Unexpected IOException with stream: s
+
+# Created at 2022-06-15T16:22:46.390
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:46.390
+Unexpected IOException with stream: s
+
+# Created at 2022-06-15T16:22:46.391
+Unexpected IOException with stream: t
+
+# Created at 2022-06-15T16:22:46.391
+Unexpected IOException with stream: a
+
+# Created at 2022-06-15T16:22:46.392
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:46.393
+Unexpected IOException with stream: t
+
+# Created at 2022-06-15T16:22:46.393
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:46.393
+Unexpected IOException with stream: d
+
+# Created at 2022-06-15T16:22:46.394
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:46.394
+Unexpected IOException with stream: s
+
+# Created at 2022-06-15T16:22:46.395
+Unexpected IOException with stream: u
+
+# Created at 2022-06-15T16:22:46.395
+Unexpected IOException with stream: c
+
+# Created at 2022-06-15T16:22:46.396
+Unexpected IOException with stream: c
+
+# Created at 2022-06-15T16:22:46.396
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:46.397
+Unexpected IOException with stream: s
+
+# Created at 2022-06-15T16:22:46.397
+Unexpected IOException with stream: s
+
+# Created at 2022-06-15T16:22:46.397
+Unexpected IOException with stream: f
+
+# Created at 2022-06-15T16:22:46.398
+Unexpected IOException with stream: u
+
+# Created at 2022-06-15T16:22:46.398
+Unexpected IOException with stream: l
+
+# Created at 2022-06-15T16:22:46.399
+Unexpected IOException with stream: l
+
+# Created at 2022-06-15T16:22:46.399
+Unexpected IOException with stream: y
+
+# Created at 2022-06-15T16:22:46.400
+Unexpected IOException with stream: .
+
+# Created at 2022-06-15T16:22:46.400
+Unexpected IOException with stream: 
+
+# Created at 2022-06-15T16:22:46.401
+Unexpected IOException with stream: 
+
+
+# Created at 2022-06-15T16:22:47.626
+Unexpected IOException with stream: [
+
+# Created at 2022-06-15T16:22:47.627
+Unexpected IOException with stream: 1
+
+# Created at 2022-06-15T16:22:47.628
+Unexpected IOException with stream: 6
+
+# Created at 2022-06-15T16:22:47.628
+Unexpected IOException with stream: 5
+
+# Created at 2022-06-15T16:22:47.629
+Unexpected IOException with stream: 5
+
+# Created at 2022-06-15T16:22:47.630
+Unexpected IOException with stream: 2
+
+# Created at 2022-06-15T16:22:47.630
+Unexpected IOException with stream: 8
+
+# Created at 2022-06-15T16:22:47.631
+Unexpected IOException with stream: 1
+
+# Created at 2022-06-15T16:22:47.631
+Unexpected IOException with stream: 3
+
+# Created at 2022-06-15T16:22:47.632
+Unexpected IOException with stream: 6
+
+# Created at 2022-06-15T16:22:47.632
+Unexpected IOException with stream: 7
+
+# Created at 2022-06-15T16:22:47.633
+Unexpected IOException with stream: .
+
+# Created at 2022-06-15T16:22:47.633
+Unexpected IOException with stream: 6
+
+# Created at 2022-06-15T16:22:47.634
+Unexpected IOException with stream: 2
+
+# Created at 2022-06-15T16:22:47.635
+Unexpected IOException with stream: 1
+
+# Created at 2022-06-15T16:22:47.635
+Unexpected IOException with stream: ]
+
+# Created at 2022-06-15T16:22:47.636
+Unexpected IOException with stream: [
+
+# Created at 2022-06-15T16:22:47.637
+Unexpected IOException with stream: W
+
+# Created at 2022-06-15T16:22:47.637
+Unexpected IOException with stream: A
+
+# Created at 2022-06-15T16:22:47.638
+Unexpected IOException with stream: R
+
+# Created at 2022-06-15T16:22:47.639
+Unexpected IOException with stream: N
+
+# Created at 2022-06-15T16:22:47.640
+Unexpected IOException with stream: I
+
+# Created at 2022-06-15T16:22:47.641
+Unexpected IOException with stream: N
+
+# Created at 2022-06-15T16:22:47.641
+Unexpected IOException with stream: G
+
+# Created at 2022-06-15T16:22:47.642
+Unexpected IOException with stream: ]
+
+# Created at 2022-06-15T16:22:47.643
+Unexpected IOException with stream: :
+
+# Created at 2022-06-15T16:22:47.644
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:47.644
+Unexpected IOException with stream: T
+
+# Created at 2022-06-15T16:22:47.645
+Unexpected IOException with stream: h
+
+# Created at 2022-06-15T16:22:47.646
+Unexpected IOException with stream: i
+
+# Created at 2022-06-15T16:22:47.646
+Unexpected IOException with stream: s
+
+# Created at 2022-06-15T16:22:47.647
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:47.648
+Unexpected IOException with stream: v
+
+# Created at 2022-06-15T16:22:47.649
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:47.649
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:47.650
+Unexpected IOException with stream: s
+
+# Created at 2022-06-15T16:22:47.651
+Unexpected IOException with stream: i
+
+# Created at 2022-06-15T16:22:47.652
+Unexpected IOException with stream: o
+
+# Created at 2022-06-15T16:22:47.652
+Unexpected IOException with stream: n
+
+# Created at 2022-06-15T16:22:47.653
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:47.653
+Unexpected IOException with stream: o
+
+# Created at 2022-06-15T16:22:47.654
+Unexpected IOException with stream: f
+
+# Created at 2022-06-15T16:22:47.654
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:47.655
+Unexpected IOException with stream: C
+
+# Created at 2022-06-15T16:22:47.656
+Unexpected IOException with stream: h
+
+# Created at 2022-06-15T16:22:47.657
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:47.657
+Unexpected IOException with stream: o
+
+# Created at 2022-06-15T16:22:47.658
+Unexpected IOException with stream: m
+
+# Created at 2022-06-15T16:22:47.659
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:47.660
+Unexpected IOException with stream: D
+
+# Created at 2022-06-15T16:22:47.660
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:47.661
+Unexpected IOException with stream: i
+
+# Created at 2022-06-15T16:22:47.662
+Unexpected IOException with stream: v
+
+# Created at 2022-06-15T16:22:47.662
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:47.663
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:47.664
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:47.665
+Unexpected IOException with stream: h
+
+# Created at 2022-06-15T16:22:47.665
+Unexpected IOException with stream: a
+
+# Created at 2022-06-15T16:22:47.666
+Unexpected IOException with stream: s
+
+# Created at 2022-06-15T16:22:47.667
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:47.668
+Unexpected IOException with stream: n
+
+# Created at 2022-06-15T16:22:47.668
+Unexpected IOException with stream: o
+
+# Created at 2022-06-15T16:22:47.669
+Unexpected IOException with stream: t
+
+# Created at 2022-06-15T16:22:47.670
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:47.671
+Unexpected IOException with stream: b
+
+# Created at 2022-06-15T16:22:47.671
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:47.672
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:47.673
+Unexpected IOException with stream: n
+
+# Created at 2022-06-15T16:22:47.674
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:47.674
+Unexpected IOException with stream: t
+
+# Created at 2022-06-15T16:22:47.675
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:47.676
+Unexpected IOException with stream: s
+
+# Created at 2022-06-15T16:22:47.677
+Unexpected IOException with stream: t
+
+# Created at 2022-06-15T16:22:47.677
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:47.678
+Unexpected IOException with stream: d
+
+# Created at 2022-06-15T16:22:47.679
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:47.679
+Unexpected IOException with stream: w
+
+# Created at 2022-06-15T16:22:47.680
+Unexpected IOException with stream: i
+
+# Created at 2022-06-15T16:22:47.681
+Unexpected IOException with stream: t
+
+# Created at 2022-06-15T16:22:47.681
+Unexpected IOException with stream: h
+
+# Created at 2022-06-15T16:22:47.682
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:47.682
+Unexpected IOException with stream: C
+
+# Created at 2022-06-15T16:22:47.683
+Unexpected IOException with stream: h
+
+# Created at 2022-06-15T16:22:47.684
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:47.684
+Unexpected IOException with stream: o
+
+# Created at 2022-06-15T16:22:47.685
+Unexpected IOException with stream: m
+
+# Created at 2022-06-15T16:22:47.685
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:47.686
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:47.686
+Unexpected IOException with stream: v
+
+# Created at 2022-06-15T16:22:47.687
+Unexpected IOException with stream: e
+
+# Created at 2022-06-15T16:22:47.687
+Unexpected IOException with stream: r
+
+# Created at 2022-06-15T16:22:47.688
+Unexpected IOException with stream: s
+
+# Created at 2022-06-15T16:22:47.688
+Unexpected IOException with stream: i
+
+# Created at 2022-06-15T16:22:47.689
+Unexpected IOException with stream: o
+
+# Created at 2022-06-15T16:22:47.690
+Unexpected IOException with stream: n
+
+# Created at 2022-06-15T16:22:47.690
+Unexpected IOException with stream:  
+
+# Created at 2022-06-15T16:22:47.691
+Unexpected IOException with stream: 1
+
+# Created at 2022-06-15T16:22:47.692
+Unexpected IOException with stream: 0
+
+# Created at 2022-06-15T16:22:47.692
+Unexpected IOException with stream: 2
+
+# Created at 2022-06-15T16:22:47.692
+Unexpected IOException with stream: .
+
+# Created at 2022-06-15T16:22:47.693
+Unexpected IOException with stream: 
+
+# Created at 2022-06-15T16:22:47.693
+Unexpected IOException with stream: 
+
+
+# Created at 2022-06-15T16:22:47.879
+Unexpected IOException with stream: Jun 15, 2022 4:22:47 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+
+# Created at 2022-06-15T16:22:48.911
+Unexpected IOException: 8,1,com.converge.projectEARF.AppTest,setUp(com.converge.projectEARF.AppTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=102.0.5005.63)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'CICTRELWKSL308'\002C ip: '172.31.115.155'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.15.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 102.0.5005.63\002C chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323...\002C userDataDir: C:\005CUsers\005CPALAKE~1.ABD\005CAppDa...}\002C goog:chromeOptions: {debuggerAddress: localhost:53013}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 7681b69a406dd989ce55c76b7ab4860a,null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=102.0.5005.63)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'CICTRELWKSL308'\002C ip: '172.31.115.155'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.15.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 102.0.5005.63\002C chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323...\002C userDataDir: C:\005CUsers\005CPALAKE~1.ABD\005CAppDa...}\002C goog:chromeOptions: {debuggerAddress: localhost:53013}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 7681b69a406dd989ce55c76b7ab4860a,AppTest.setUp:65 \00BB NoSuchWindow no such window: target window already closed\000Af...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=102.0.5005.63)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'CICTRELWKSL308'\002C ip: '172.31.115.155'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.15.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 102.0.5005.63\002C chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323...\002C userDataDir: C:\005CUsers\005CPALAKE~1.ABD\005CAppDa...}\002C goog:chromeOptions: {debuggerAddress: localhost:53013}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 7681b69a406dd989ce55c76b7ab4860a\000A\0009at com.converge.projectEARF.AppTest.setUp(AppTest.java:65)\000A
+
+
+# Created at 2022-06-15T16:22:48.916
+Unexpected IOException: 5,1,com.converge.projectEARF.AppTest,EARF1stTest(com.converge.projectEARF.AppTest),com.converge.projectEARF.AppTest,null,null
+
+
+# Created at 2022-06-15T16:22:48.918
+Unexpected IOException: 9,1,com.converge.projectEARF.AppTest,EARF1stTest(com.converge.projectEARF.AppTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=102.0.5005.63)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'CICTRELWKSL308'\002C ip: '172.31.115.155'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.15.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 102.0.5005.63\002C chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323...\002C userDataDir: C:\005CUsers\005CPALAKE~1.ABD\005CAppDa...}\002C goog:chromeOptions: {debuggerAddress: localhost:53013}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 7681b69a406dd989ce55c76b7ab4860a,null
+
+
+# Created at 2022-06-15T16:22:48.919
+Unexpected IOException: 9,1,com.converge.projectEARF.AppTest,teardown(com.converge.projectEARF.AppTest),null,null,null
+
+
+# Created at 2022-06-15T16:22:48.923
+Unexpected IOException: 9,1,com.converge.projectEARF.AppTest,setUp(com.converge.projectEARF.AppTest),null,null,null
+
+
+# Created at 2022-06-15T16:22:48.925
+Unexpected IOException: 5,1,com.converge.projectEARF.AppTest,EARF2ndTest(com.converge.projectEARF.AppTest),com.converge.projectEARF.AppTest,null,null
+
+
+# Created at 2022-06-15T16:22:48.927
+Unexpected IOException: 9,1,com.converge.projectEARF.AppTest,EARF2ndTest(com.converge.projectEARF.AppTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=102.0.5005.63)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'CICTRELWKSL308'\002C ip: '172.31.115.155'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.15.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 102.0.5005.63\002C chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323...\002C userDataDir: C:\005CUsers\005CPALAKE~1.ABD\005CAppDa...}\002C goog:chromeOptions: {debuggerAddress: localhost:53013}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 7681b69a406dd989ce55c76b7ab4860a,null
+
+
+# Created at 2022-06-15T16:22:48.928
+Unexpected IOException: 9,1,com.converge.projectEARF.AppTest,teardown(com.converge.projectEARF.AppTest),null,null,null
+
+
+# Created at 2022-06-15T16:22:48.930
+Unexpected IOException: 9,1,com.converge.projectEARF.AppTest,setUp(com.converge.projectEARF.AppTest),null,null,null
+
+
+# Created at 2022-06-15T16:22:48.931
+Unexpected IOException: 5,1,com.converge.projectEARF.AppTest,EARF3ndTest(com.converge.projectEARF.AppTest),com.converge.projectEARF.AppTest,null,null
+
+
+# Created at 2022-06-15T16:22:48.932
+Unexpected IOException: 9,1,com.converge.projectEARF.AppTest,EARF3ndTest(com.converge.projectEARF.AppTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=102.0.5005.63)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'CICTRELWKSL308'\002C ip: '172.31.115.155'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.15.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 102.0.5005.63\002C chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323...\002C userDataDir: C:\005CUsers\005CPALAKE~1.ABD\005CAppDa...}\002C goog:chromeOptions: {debuggerAddress: localhost:53013}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 7681b69a406dd989ce55c76b7ab4860a,null
+
+
+# Created at 2022-06-15T16:22:48.933
+Unexpected IOException: 9,1,com.converge.projectEARF.AppTest,teardown(com.converge.projectEARF.AppTest),null,null,null
+
+
+# Created at 2022-06-15T16:22:48.934
+Unexpected IOException: 9,1,com.converge.projectEARF.AppTest,setUp(com.converge.projectEARF.AppTest),null,null,null
+
+
+# Created at 2022-06-15T16:22:48.935
+Unexpected IOException: 5,1,com.converge.projectEARF.AppTest,EARF4thTest(com.converge.projectEARF.AppTest),com.converge.projectEARF.AppTest,null,null
+
+
+# Created at 2022-06-15T16:22:48.936
+Unexpected IOException: 9,1,com.converge.projectEARF.AppTest,EARF4thTest(com.converge.projectEARF.AppTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=102.0.5005.63)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'CICTRELWKSL308'\002C ip: '172.31.115.155'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.15.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 102.0.5005.63\002C chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323...\002C userDataDir: C:\005CUsers\005CPALAKE~1.ABD\005CAppDa...}\002C goog:chromeOptions: {debuggerAddress: localhost:53013}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 7681b69a406dd989ce55c76b7ab4860a,null
+
+
+# Created at 2022-06-15T16:22:48.938
+Unexpected IOException: 9,1,com.converge.projectEARF.AppTest,teardown(com.converge.projectEARF.AppTest),null,null,null
+
+
+# Created at 2022-06-15T16:22:48.940
+Unexpected IOException: 9,1,com.converge.projectEARF.AppTest,setUp(com.converge.projectEARF.AppTest),null,null,null
+
+
+# Created at 2022-06-15T16:22:48.942
+Unexpected IOException: 5,1,com.converge.projectEARF.AppTest,EARF5thTest(com.converge.projectEARF.AppTest),com.converge.projectEARF.AppTest,null,null
+
+
+# Created at 2022-06-15T16:22:48.943
+Unexpected IOException: 9,1,com.converge.projectEARF.AppTest,EARF5thTest(com.converge.projectEARF.AppTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=102.0.5005.63)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'CICTRELWKSL308'\002C ip: '172.31.115.155'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.15.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 102.0.5005.63\002C chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323...\002C userDataDir: C:\005CUsers\005CPALAKE~1.ABD\005CAppDa...}\002C goog:chromeOptions: {debuggerAddress: localhost:53013}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 7681b69a406dd989ce55c76b7ab4860a,null
+
+
+# Created at 2022-06-15T16:22:48.944
+Unexpected IOException: 9,1,com.converge.projectEARF.AppTest,teardown(com.converge.projectEARF.AppTest),null,null,null
+
+
+# Created at 2022-06-15T16:22:48.946
+Unexpected IOException: 9,1,com.converge.projectEARF.AppTest,setUp(com.converge.projectEARF.AppTest),null,null,null
+
+
+# Created at 2022-06-15T16:22:48.947
+Unexpected IOException: 5,1,com.converge.projectEARF.AppTest,EARF7thTest(com.converge.projectEARF.AppTest),com.converge.projectEARF.AppTest,null,null
+
+
+# Created at 2022-06-15T16:22:48.948
+Unexpected IOException: 9,1,com.converge.projectEARF.AppTest,EARF7thTest(com.converge.projectEARF.AppTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=102.0.5005.63)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'CICTRELWKSL308'\002C ip: '172.31.115.155'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.15.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 102.0.5005.63\002C chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323...\002C userDataDir: C:\005CUsers\005CPALAKE~1.ABD\005CAppDa...}\002C goog:chromeOptions: {debuggerAddress: localhost:53013}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 7681b69a406dd989ce55c76b7ab4860a,null
+
+
+# Created at 2022-06-15T16:22:48.949
+Unexpected IOException: 9,1,com.converge.projectEARF.AppTest,teardown(com.converge.projectEARF.AppTest),null,null,null
+
+
+# Created at 2022-06-15T16:22:48.950
+Unexpected IOException: 9,1,com.converge.projectEARF.AppTest,setUp(com.converge.projectEARF.AppTest),null,null,null
+
+
+# Created at 2022-06-15T16:22:48.951
+Unexpected IOException: 5,1,com.converge.projectEARF.AppTest,EARF8thTest(com.converge.projectEARF.AppTest),com.converge.projectEARF.AppTest,null,null
+
+
+# Created at 2022-06-15T16:22:48.952
+Unexpected IOException: 9,1,com.converge.projectEARF.AppTest,EARF8thTest(com.converge.projectEARF.AppTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=102.0.5005.63)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'CICTRELWKSL308'\002C ip: '172.31.115.155'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.15.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 102.0.5005.63\002C chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323...\002C userDataDir: C:\005CUsers\005CPALAKE~1.ABD\005CAppDa...}\002C goog:chromeOptions: {debuggerAddress: localhost:53013}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 7681b69a406dd989ce55c76b7ab4860a,null
+
+
+# Created at 2022-06-15T16:22:48.953
+Unexpected IOException: 9,1,com.converge.projectEARF.AppTest,teardown(com.converge.projectEARF.AppTest),null,null,null
+
+
+# Created at 2022-06-15T16:22:48.954
+Unexpected IOException: 9,1,com.converge.projectEARF.AppTest,setUp(com.converge.projectEARF.AppTest),null,null,null
+
+
+# Created at 2022-06-15T16:22:48.955
+Unexpected IOException: 5,1,com.converge.projectEARF.AppTest,EARFWebPage(com.converge.projectEARF.AppTest),com.converge.projectEARF.AppTest,null,null
+
+
+# Created at 2022-06-15T16:22:48.956
+Unexpected IOException: 9,1,com.converge.projectEARF.AppTest,EARFWebPage(com.converge.projectEARF.AppTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=102.0.5005.63)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'CICTRELWKSL308'\002C ip: '172.31.115.155'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.15.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 102.0.5005.63\002C chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323...\002C userDataDir: C:\005CUsers\005CPALAKE~1.ABD\005CAppDa...}\002C goog:chromeOptions: {debuggerAddress: localhost:53013}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 7681b69a406dd989ce55c76b7ab4860a,null
+
+
+# Created at 2022-06-15T16:22:48.957
+Unexpected IOException: 9,1,com.converge.projectEARF.AppTest,teardown(com.converge.projectEARF.AppTest),null,null,null
+
+
+# Created at 2022-06-15T16:22:49.119
+Unexpected IOException: 9,1,com.converge.projectEARF.AppTest,finish(com.converge.projectEARF.AppTest),null,null,null
+
+
+# Created at 2022-06-15T16:22:49.630
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGDirectoryTestSuite,com.converge.projectEARF.AppTest,null,null,null
+
+
